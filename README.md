@@ -1,1 +1,2 @@
-# C-36-Sync-car-name-greeting-thing
+# synchronousBallMovement
+Ball moving synchronously
